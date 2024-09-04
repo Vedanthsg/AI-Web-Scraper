@@ -20,7 +20,7 @@ This project is an AI-powered web scraper designed to extract and parse specific
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai-web-scraper.git
+   git clone https://github.com/vedanth005/ai-web-scraper.git
    cd ai-web-scraper
    ```
 
